@@ -1,0 +1,21 @@
+{
+  "name": "perf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/glob": "^7.1.1",
+    "@types/node": "^10.14.1",
+    "csv-writer": "^1.2.0",
+    "glob": "^7.1.3"
+  },
+  "devDependencies": {
+    "flamebearer": "^1.1.3"
+  }
+}
